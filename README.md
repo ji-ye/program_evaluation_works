@@ -5,6 +5,6 @@ Notebook documentation for work done in a program evaluation course.
 
 - PE_HW4.ipynb: Note documentation for homework 4
 
-- PE_pipeline.ipynb: collection of frequently used functions and snippets.
+- PE_pipeline.ipynb: Collection of frequently used functions and snippets.
 
-- data: contains original data sets and cleaned version for Stata use.
+- data: Contains original data sets and cleaned version for Stata use.
